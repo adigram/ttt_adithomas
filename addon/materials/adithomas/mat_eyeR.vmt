@@ -1,0 +1,18 @@
+EyeRefract
+{
+$Iris "adithomas\tex_eyes" 
+$AmbientOcclTexture "adithomas\tex_eyes_ao"
+$Envmap "Engine/eye-reflection-cubemap-" 
+$CorneaTexture "Engine/eye-cornea" 
+$EyeballRadius "8.5" 
+$AmbientOcclColor "[.33 .33 .33]" 
+$Dilation "0.5" 
+$ParallaxStrength "0.25" 
+$CorneaBumpStrength ".5" 
+$halflambert 1
+$nodecal 1
+$glossiness 0.4
+$ambientocclusion 1
+$RaytraceSphere 1 
+$SphereTexkillCombo 1
+}

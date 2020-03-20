@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "adithomas/tex_decal_nr1"
+	"$translucent" "1"   
+}
