@@ -1,4 +1,3 @@
-# ttt_adithomas
 # Includes the Addon
 # Includes the Blender 3D Model
 * Excluded Songs do to potential legal issues 
